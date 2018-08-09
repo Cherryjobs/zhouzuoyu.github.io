@@ -1,0 +1,2247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/08/09/Env/hexo%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2018-08-09T09:18:09.533Z</lastmod>
+    <data>
+        <display>
+        <title>hexo安装</title>
+        <pubTime>2018-08-09T09:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Env" url="http://www.zhouzuoyu.com/categories/Env/"/>
+          
+             
+              <breadCrumb title="hexo" url="http://www.zhouzuoyu.com/categories/Env/hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/23/makefile/%E5%8D%95%E6%96%87%E4%BB%B6%E5%A4%B9makefile/</loc>
+    <lastmod>2018-08-06T03:05:11.961Z</lastmod>
+    <data>
+        <display>
+        <title>单文件夹makefile</title>
+        <pubTime>2018-03-23T09:03:55.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="makefile" url="http://www.zhouzuoyu.com/categories/makefile/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/26/c/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8/</loc>
+    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
+    <data>
+        <display>
+        <title>线程安全</title>
+        <pubTime>2018-03-26T03:30:18.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/26/c/%E5%8F%98%E9%87%8F%E5%88%86%E9%85%8D/</loc>
+    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
+    <data>
+        <display>
+        <title>变量分配</title>
+        <pubTime>2018-03-26T03:13:15.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/c/sort/</loc>
+    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
+    <data>
+        <display>
+        <title>sort</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/c/str/</loc>
+    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
+    <data>
+        <display>
+        <title>字符串处理</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/c/list/</loc>
+    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
+    <data>
+        <display>
+        <title>内核链表</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/c/mem/</loc>
+    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
+    <data>
+        <display>
+        <title>mem处理</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/09/c/%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E6%97%B6%E9%97%B4/</loc>
+    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
+    <data>
+        <display>
+        <title>获取当前时间</title>
+        <pubTime>2018-05-09T11:32:18.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/07/git/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
+    <data>
+        <display>
+        <title>git patch</title>
+        <pubTime>2018-06-07T07:01:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="git" url="http://www.zhouzuoyu.com/categories/git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/06/interface/csi/</loc>
+    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
+    <data>
+        <display>
+        <title>csi</title>
+        <pubTime>2018-06-06T03:23:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="interface" url="http://www.zhouzuoyu.com/categories/interface/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/06/c/endian/</loc>
+    <lastmod>2018-08-06T03:05:11.945Z</lastmod>
+    <data>
+        <display>
+        <title>endian</title>
+        <pubTime>2018-03-06T03:40:28.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/06/c/extern-c/</loc>
+    <lastmod>2018-08-06T03:05:11.945Z</lastmod>
+    <data>
+        <display>
+        <title>extern_c</title>
+        <pubTime>2018-03-06T08:10:54.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/04/Linux/intel/crl/power/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>power</title>
+        <pubTime>2018-06-04T11:39:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="intel" url="http://www.zhouzuoyu.com/categories/Linux/intel/"/>
+          
+             
+              <breadCrumb title="crl" url="http://www.zhouzuoyu.com/categories/Linux/intel/crl/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/04/Linux/intel/crl/pdata%E6%B3%A8%E5%86%8Ci2c_client/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>pdata注册i2c_client</title>
+        <pubTime>2018-06-04T02:17:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="intel" url="http://www.zhouzuoyu.com/categories/Linux/intel/"/>
+          
+             
+              <breadCrumb title="crl" url="http://www.zhouzuoyu.com/categories/Linux/intel/crl/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/01/Linux/intel/crl/pdata%E5%92%8Cisys%E7%9A%84%E8%81%94%E7%B3%BB%E4%BA%8C/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>pdata和isys的联系(二)</title>
+        <pubTime>2018-06-01T10:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="intel" url="http://www.zhouzuoyu.com/categories/Linux/intel/"/>
+          
+             
+              <breadCrumb title="crl" url="http://www.zhouzuoyu.com/categories/Linux/intel/crl/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/01/Linux/intel/crl/pdata%E5%92%8Cisys%E7%9A%84%E8%81%94%E7%B3%BB%E4%B8%80/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>pdata和isys的联系(一)</title>
+        <pubTime>2018-06-01T10:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="intel" url="http://www.zhouzuoyu.com/categories/Linux/intel/"/>
+          
+             
+              <breadCrumb title="crl" url="http://www.zhouzuoyu.com/categories/Linux/intel/crl/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/21/Linux/intel/crl/old_match_method/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>CRL老的匹配方式</title>
+        <pubTime>2018-05-21T03:11:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="intel" url="http://www.zhouzuoyu.com/categories/Linux/intel/"/>
+          
+             
+              <breadCrumb title="crl" url="http://www.zhouzuoyu.com/categories/Linux/intel/crl/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/01/30/Linux/input/Input_dev%E5%92%8CInput_handler%E9%93%BE%E6%8E%A5/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>Input子系统(2)_input_dev和input_handler链接</title>
+        <pubTime>2018-01-30T07:41:36.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="input" url="http://www.zhouzuoyu.com/categories/Linux/input/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/01/30/Linux/input/Input_dev/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>Input子系统(3)_input_dev</title>
+        <pubTime>2018-01-30T05:48:21.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="input" url="http://www.zhouzuoyu.com/categories/Linux/input/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/03/Linux/power/%E5%90%AF%E5%8A%A8suspend/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>PM(2)_启动suspend</title>
+        <pubTime>2018-02-03T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="power" url="http://www.zhouzuoyu.com/categories/Linux/power/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/03/Linux/power/wakeup_event/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>PM(4)_wakeup_event</title>
+        <pubTime>2018-02-03T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="power" url="http://www.zhouzuoyu.com/categories/Linux/power/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/03/Linux/power/suspend%E6%B5%81%E7%A8%8B/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>PM(3)_suspend流程</title>
+        <pubTime>2018-02-03T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="power" url="http://www.zhouzuoyu.com/categories/Linux/power/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/03/Linux/power/wakeup_count/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>PM(5)_wakeup_count</title>
+        <pubTime>2018-02-03T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="power" url="http://www.zhouzuoyu.com/categories/Linux/power/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/03/Linux/power/wakelock/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>PM(7)_wakelock</title>
+        <pubTime>2018-02-03T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="power" url="http://www.zhouzuoyu.com/categories/Linux/power/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/07/Linux/power/suspend%E9%A1%BA%E5%BA%8F/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>suspend顺序</title>
+        <pubTime>2018-03-07T02:43:15.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="power" url="http://www.zhouzuoyu.com/categories/Linux/power/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/03/Linux/power/overview/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>PM(1)_Overview</title>
+        <pubTime>2018-02-03T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="power" url="http://www.zhouzuoyu.com/categories/Linux/power/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/04/Linux/nvmem/nvmem%20framework/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>nvmem(1)_framework</title>
+        <pubTime>2018-02-04T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="nvmem" url="http://www.zhouzuoyu.com/categories/Linux/nvmem/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/03/Linux/power/runtime/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>PM(6)_runtime</title>
+        <pubTime>2018-02-03T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="power" url="http://www.zhouzuoyu.com/categories/Linux/power/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/03/Linux/power/autosleep/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>PM(8)_autosleep</title>
+        <pubTime>2018-02-03T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="power" url="http://www.zhouzuoyu.com/categories/Linux/power/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/04/Linux/nvmem/nvmem%20device/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>nvmem(2)_device</title>
+        <pubTime>2018-02-04T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="nvmem" url="http://www.zhouzuoyu.com/categories/Linux/nvmem/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/26/Linux/kernel/kthread/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>kthread</title>
+        <pubTime>2018-02-26T13:41:13.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="kernel" url="http://www.zhouzuoyu.com/categories/Linux/kernel/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/14/Linux/interrupt/%E4%B8%AD%E6%96%AD%E7%9D%A1%E7%9C%A0/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>中断不能睡眠</title>
+        <pubTime>2018-05-14T02:25:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="power" url="http://www.zhouzuoyu.com/categories/Linux/power/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/01/30/Linux/input/Input%E5%AD%90%E7%B3%BB%E7%BB%9FOverview/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>Input子系统(1)_Overview</title>
+        <pubTime>2018-01-30T06:11:06.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="input" url="http://www.zhouzuoyu.com/categories/Linux/input/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/16/Linux/input/tiny4412_tp/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>tiny4412_tp</title>
+        <pubTime>2018-05-16T10:15:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="input" url="http://www.zhouzuoyu.com/categories/Linux/input/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/01/30/Linux/input/Input_handler/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>Input子系统(4)_input_handler</title>
+        <pubTime>2018-01-30T07:34:06.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="input" url="http://www.zhouzuoyu.com/categories/Linux/input/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/21/Linux/intel/crl/match/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>crl match</title>
+        <pubTime>2018-05-21T03:15:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="intel" url="http://www.zhouzuoyu.com/categories/Linux/intel/"/>
+          
+             
+              <breadCrumb title="crl" url="http://www.zhouzuoyu.com/categories/Linux/intel/crl/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/06/Linux/i2c/i2c_adapter/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>i2c(2)_adapter</title>
+        <pubTime>2018-02-06T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="i2c" url="http://www.zhouzuoyu.com/categories/Linux/i2c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/06/Linux/i2c/i2c_overview/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>i2c(1)_overview</title>
+        <pubTime>2018-02-06T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="i2c" url="http://www.zhouzuoyu.com/categories/Linux/i2c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/06/Linux/i2c/i2c_driver/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>i2c(6)_i2c_driver</title>
+        <pubTime>2018-02-06T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="i2c" url="http://www.zhouzuoyu.com/categories/Linux/i2c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/06/Linux/i2c/i2c_client/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>i2c(5)_i2c_client</title>
+        <pubTime>2018-02-06T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="i2c" url="http://www.zhouzuoyu.com/categories/Linux/i2c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/06/Linux/i2c/i2c_bus_type/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>i2c(4)_i2c_bus_type</title>
+        <pubTime>2018-02-06T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="i2c" url="http://www.zhouzuoyu.com/categories/Linux/i2c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/06/Linux/i2c/i2c_algorithm/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>i2c(3)_algorithm</title>
+        <pubTime>2018-02-06T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="i2c" url="http://www.zhouzuoyu.com/categories/Linux/i2c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/05/Linux/flash/overview/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>nand(1)_overview</title>
+        <pubTime>2018-02-05T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="flash" url="http://www.zhouzuoyu.com/categories/Linux/flash/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/16/Linux/flash/nor_nand%E5%8C%BA%E5%88%AB/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>nor_nand区别</title>
+        <pubTime>2018-05-16T03:13:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="flash" url="http://www.zhouzuoyu.com/categories/Linux/flash/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/16/Linux/flash/nor_flash%E9%94%99%E4%BD%8D%E8%BF%9E%E6%8E%A5/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>nor_flash错位连接</title>
+        <pubTime>2018-05-16T06:43:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="flash" url="http://www.zhouzuoyu.com/categories/Linux/flash/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/05/Linux/flash/nand_base%20API/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>nand(4)_nand_base API</title>
+        <pubTime>2018-02-05T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="flash" url="http://www.zhouzuoyu.com/categories/Linux/flash/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/05/Linux/flash/nand_controller/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>nand(2)_controller</title>
+        <pubTime>2018-02-05T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="flash" url="http://www.zhouzuoyu.com/categories/Linux/flash/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/05/Linux/flash/nand_device/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>nand(3)_device</title>
+        <pubTime>2018-02-05T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="flash" url="http://www.zhouzuoyu.com/categories/Linux/flash/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/07/Linux/chrdev/Misc/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>字符设备(2)_Misc设备</title>
+        <pubTime>2018-02-07T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="chrdev" url="http://www.zhouzuoyu.com/categories/Linux/chrdev/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/05/Linux/flash/bbt/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>nand(5)_bbt</title>
+        <pubTime>2018-02-05T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="flash" url="http://www.zhouzuoyu.com/categories/Linux/flash/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/10/Linux/asoc/%E5%88%9B%E5%BB%BApcm%E8%AE%BE%E5%A4%87/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>注册pcm设备</title>
+        <pubTime>2018-05-10T08:03:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/Linux/asoc/%E6%B7%BB%E5%8A%A0kcontrol/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>添加kcontrol</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/Linux/asoc/kcontrol%E6%B5%81%E7%A8%8B/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>kcontrol流程</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/Linux/asoc/kcontrol_fops/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>kcontrol fops</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/07/Linux/cpufreq/cpufreq_driver/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>cpufreq(2)_cpufreq_driver</title>
+        <pubTime>2018-02-07T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="cpufreq" url="http://www.zhouzuoyu.com/categories/Linux/cpufreq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/07/Linux/cpufreq/dbs_governor/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>cpufreq(4)_dbs_governor</title>
+        <pubTime>2018-02-07T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="cpufreq" url="http://www.zhouzuoyu.com/categories/Linux/cpufreq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/07/Linux/cpufreq/cpufreq_governor%E6%A1%86%E6%9E%B6/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>cpufreq(3)_cpufreq_governor框架</title>
+        <pubTime>2018-02-07T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="cpufreq" url="http://www.zhouzuoyu.com/categories/Linux/cpufreq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/07/Linux/cpufreq/interactive/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>cpufreq(5)_interactive</title>
+        <pubTime>2018-02-07T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="cpufreq" url="http://www.zhouzuoyu.com/categories/Linux/cpufreq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/07/Linux/cpufreq/ondemand/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>cpufreq(6)_ondemand</title>
+        <pubTime>2018-02-07T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="cpufreq" url="http://www.zhouzuoyu.com/categories/Linux/cpufreq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/07/Linux/cpufreq/overview/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>cpufreq(1)_overview</title>
+        <pubTime>2018-02-07T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="cpufreq" url="http://www.zhouzuoyu.com/categories/Linux/cpufreq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/07/Linux/cpufreq/performance/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>cpufreq(7)_performance</title>
+        <pubTime>2018-02-07T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="cpufreq" url="http://www.zhouzuoyu.com/categories/Linux/cpufreq/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/Linux/asoc/snd_soc_write/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>snd_soc_write</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/24/Linux/compile/save_config/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>保存.config</title>
+        <pubTime>2018-05-24T03:33:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="compile" url="http://www.zhouzuoyu.com/categories/Linux/compile/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/07/Linux/chrdev/%E5%88%9B%E5%BB%BA%E5%AD%97%E7%AC%A6%E8%AE%BE%E5%A4%87/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>字符设备(1)_创建字符设备的两种方法</title>
+        <pubTime>2018-02-07T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="chrdev" url="http://www.zhouzuoyu.com/categories/Linux/chrdev/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/Linux/asoc/soc-audio%E6%B3%A8%E5%86%8C/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>soc-audio注册</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/07/Linux/bus-device-driver/platform/register_device/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>register platform device</title>
+        <pubTime>2018-06-07T07:22:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="platform" url="http://www.zhouzuoyu.com/categories/Linux/platform/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/08/Linux/bus-device-driver/platform/probe/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>probe</title>
+        <pubTime>2018-06-08T06:13:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="platform" url="http://www.zhouzuoyu.com/categories/Linux/platform/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/22/Linux/asoc/dapm/%E6%B3%A8%E5%86%8Cwidget%E4%B8%AD%E7%9A%84kcontrol/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>注册widget中的kcontrol</title>
+        <pubTime>2018-03-22T05:34:53.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+             
+              <breadCrumb title="dapm" url="http://www.zhouzuoyu.com/categories/Linux/asoc/dapm/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/07/Linux/bus-device-driver/platform/match/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>match</title>
+        <pubTime>2018-06-07T07:22:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="platform" url="http://www.zhouzuoyu.com/categories/Linux/platform/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/07/Linux/bus-device-driver/platform/dev_name/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>dev name</title>
+        <pubTime>2018-06-07T07:22:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="platform" url="http://www.zhouzuoyu.com/categories/Linux/platform/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/22/Linux/asoc/dapm/%E5%90%AF%E5%8A%A8power-check/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>启动power_check</title>
+        <pubTime>2018-03-22T09:27:18.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+             
+              <breadCrumb title="dapm" url="http://www.zhouzuoyu.com/categories/Linux/asoc/dapm/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/05/Linux/asoc/dapm/complete-path%E4%BE%8B%E5%AD%90/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>complete_path例子</title>
+        <pubTime>2018-06-05T03:36:48.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+             
+              <breadCrumb title="dapm" url="http://www.zhouzuoyu.com/categories/Linux/asoc/dapm/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/22/Linux/asoc/dapm/overview/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>dapm overview</title>
+        <pubTime>2018-03-22T05:46:56.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+             
+              <breadCrumb title="dapm" url="http://www.zhouzuoyu.com/categories/Linux/asoc/dapm/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/20/Linux/asoc/dapm/widget_route/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>widget和route</title>
+        <pubTime>2018-03-20T09:06:47.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+             
+              <breadCrumb title="dapm" url="http://www.zhouzuoyu.com/categories/Linux/asoc/dapm/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/23/Linux/asoc/dapm/%E4%B8%A4%E7%B1%BBkcontrol%E7%9A%84%E5%8C%BA%E5%88%AB/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>两类kcontrol的区别</title>
+        <pubTime>2018-03-23T06:32:09.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+             
+              <breadCrumb title="dapm" url="http://www.zhouzuoyu.com/categories/Linux/asoc/dapm/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/01/29/Android/Sensors/SensorService%E5%90%AF%E5%8A%A8/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>Android Sensors(3)_SensorService启动</title>
+        <pubTime>2018-01-29T09:00:15.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="Sensors" url="http://www.zhouzuoyu.com/categories/Android/Sensors/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/09/Android/Sensors/HAL%E6%B5%8B%E8%AF%95%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>Android Sensors(2)_HAL测试程序</title>
+        <pubTime>2018-02-09T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="Sensors" url="http://www.zhouzuoyu.com/categories/Android/Sensors/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/07/Env/hexo%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>hexo使用技巧</title>
+        <pubTime>2018-02-07T09:30:53.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Env" url="http://www.zhouzuoyu.com/categories/Env/"/>
+          
+             
+              <breadCrumb title="hexo" url="http://www.zhouzuoyu.com/categories/Env/hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/10/Android/Lights/PowerManagerService/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>Android Lights(2)_PowerManagerService</title>
+        <pubTime>2018-02-10T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="Lights" url="http://www.zhouzuoyu.com/categories/Android/Lights/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/10/Android/Lights/Overview/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>Android Lights(1)_Overview</title>
+        <pubTime>2018-02-10T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="Lights" url="http://www.zhouzuoyu.com/categories/Android/Lights/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/07/Env/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>科学上网</title>
+        <pubTime>2018-02-07T08:02:18.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Env" url="http://www.zhouzuoyu.com/categories/Env/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/Android/%E7%A1%AC%E4%BB%B6%E8%AE%BF%E9%97%AE%E6%9C%8D%E5%8A%A1/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>硬件访问服务</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/17/Android/partition/android%E5%88%86%E5%8C%BA/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>android分区</title>
+        <pubTime>2018-05-17T10:28:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="partition" url="http://www.zhouzuoyu.com/categories/Android/partition/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/17/Android/fastboot%E7%83%A7%E5%86%99img/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>fastboot烧写img</title>
+        <pubTime>2018-05-17T09:14:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/04/Linux/asoc/codec_name/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>匹配codec_name</title>
+        <pubTime>2018-05-04T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/31/Env/ubuntu/%E6%A0%BC%E5%BC%8F%E5%8C%96u%E7%9B%98/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>格式化u盘</title>
+        <pubTime>2018-05-31T07:06:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Env" url="http://www.zhouzuoyu.com/categories/Env/"/>
+          
+             
+              <breadCrumb title="ubuntu" url="http://www.zhouzuoyu.com/categories/Env/ubuntu/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/01/Env/ubuntu/%E5%85%B1%E4%BA%AB/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>共享文件夹</title>
+        <pubTime>2018-06-01T05:42:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Env" url="http://www.zhouzuoyu.com/categories/Env/"/>
+          
+             
+              <breadCrumb title="ubuntu" url="http://www.zhouzuoyu.com/categories/Env/ubuntu/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/22/Linux/asoc/dapm/complete-path/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>complete_path</title>
+        <pubTime>2018-03-22T02:30:48.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+             
+              <breadCrumb title="dapm" url="http://www.zhouzuoyu.com/categories/Linux/asoc/dapm/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/09/Env/android%20studio/%E5%AE%89%E8%A3%85android%20studio/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>安装android studio过程</title>
+        <pubTime>2018-05-09T09:30:53.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Env" url="http://www.zhouzuoyu.com/categories/Env/"/>
+          
+             
+              <breadCrumb title="android studio" url="http://www.zhouzuoyu.com/categories/Env/android-studio/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/Android/tinyalsa/tinyplay/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>tinyplay</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="tinyalsa" url="http://www.zhouzuoyu.com/categories/Android/tinyalsa/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/01/29/Android/Sensors/SensorService/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>Android Sensors(4)_SensorService</title>
+        <pubTime>2018-01-29T09:55:15.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="Sensors" url="http://www.zhouzuoyu.com/categories/Android/Sensors/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/Android/tinyalsa/tinymix/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>tinymix</title>
+        <pubTime>2018-02-08T08:27:38.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="tinyalsa" url="http://www.zhouzuoyu.com/categories/Android/tinyalsa/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/01/29/Android/Sensors/HAL/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>Android Sensors(1)_HAL</title>
+        <pubTime>2018-01-29T03:29:15.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="Sensors" url="http://www.zhouzuoyu.com/categories/Android/Sensors/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/SocketPair/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>InputFlinger(6)_SocketPair</title>
+        <pubTime>2018-02-11T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="InputFlinger" url="http://www.zhouzuoyu.com/categories/Android/InputFlinger/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/10/Android/Lights/DisplayPowerController/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>Android Lights(3)_DisplayPowerController</title>
+        <pubTime>2018-02-10T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="Lights" url="http://www.zhouzuoyu.com/categories/Android/Lights/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/10/Android/Lights/DisplayPowerState/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>Android Lights(4)_DisplayPowerState</title>
+        <pubTime>2018-02-10T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="Lights" url="http://www.zhouzuoyu.com/categories/Android/Lights/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/10/Android/Lights/HAL/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>Android Lights(7)_Lights HAL</title>
+        <pubTime>2018-02-10T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="Lights" url="http://www.zhouzuoyu.com/categories/Android/Lights/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/10/Android/Lights/JNI/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>Android Lights(6)_Lights JNI</title>
+        <pubTime>2018-02-10T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="Lights" url="http://www.zhouzuoyu.com/categories/Android/Lights/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/OverView/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>InputFlinger(1)_Overview</title>
+        <pubTime>2018-02-11T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="InputFlinger" url="http://www.zhouzuoyu.com/categories/Android/InputFlinger/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/10/Android/Lights/BatteryService/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>Android Lights(8)_BatteryService</title>
+        <pubTime>2018-02-10T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="Lights" url="http://www.zhouzuoyu.com/categories/Android/Lights/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/InputDispatcher/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>InputFlinger(4)_InputDispatcher</title>
+        <pubTime>2018-02-11T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="InputFlinger" url="http://www.zhouzuoyu.com/categories/Android/InputFlinger/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/EventHub/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>InputFlinger(2)_EventHub</title>
+        <pubTime>2018-02-11T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="InputFlinger" url="http://www.zhouzuoyu.com/categories/Android/InputFlinger/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/GlobalKey/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>InputFlinger(5)_GlobalKey</title>
+        <pubTime>2018-02-11T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="InputFlinger" url="http://www.zhouzuoyu.com/categories/Android/InputFlinger/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/10/Android/Lights/LightsService/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>Android Lights(5)_LightsService</title>
+        <pubTime>2018-02-10T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="Lights" url="http://www.zhouzuoyu.com/categories/Android/Lights/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/InputDispatcher%E5%92%8CPhoneWindowManager%E7%9A%84%E8%81%94%E7%B3%BB/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>InputFlinger(7)_InputDispatcher和PhoneWindowManager的联系</title>
+        <pubTime>2018-02-11T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="InputFlinger" url="http://www.zhouzuoyu.com/categories/Android/InputFlinger/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/InputReader/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>InputFlinger(3)_InputReader</title>
+        <pubTime>2018-02-11T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="InputFlinger" url="http://www.zhouzuoyu.com/categories/Android/InputFlinger/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>
