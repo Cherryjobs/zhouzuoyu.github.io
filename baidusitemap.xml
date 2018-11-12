@@ -4,11 +4,11 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/08/09/Env/hexo%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2018-08-13T03:11:19.798Z</lastmod>
+    <loc>http://www.zhouzuoyu.com/2018/08/09/Env/hexo%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/</loc>
+    <lastmod>2018-11-12T03:07:17.373Z</lastmod>
     <data>
         <display>
-        <title>hexo安装</title>
+        <title>hexo安装报错</title>
         <pubTime>2018-08-09T09:00:00.000Z</pubTime>
         
          
@@ -24,6 +24,26 @@
     </url>
 
     
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/11/12/Linux/i2c/app/</loc>
+    <lastmod>2018-11-12T03:00:36.949Z</lastmod>
+    <data>
+        <display>
+        <title>i2c app</title>
+        <pubTime>2018-11-12T02:48:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="i2c" url="http://www.zhouzuoyu.com/categories/Linux/i2c/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>http://www.zhouzuoyu.com/2018/03/23/makefile/%E5%8D%95%E6%96%87%E4%BB%B6%E5%A4%B9makefile/</loc>
@@ -43,6 +63,7 @@
     </url>
 
     
+    
   <url>
     <loc>http://www.zhouzuoyu.com/2018/03/26/c/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2018-08-06T03:05:11.949Z</lastmod>
@@ -50,42 +71,6 @@
         <display>
         <title>线程安全</title>
         <pubTime>2018-03-26T03:30:18.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.zhouzuoyu.com/2018/03/26/c/%E5%8F%98%E9%87%8F%E5%88%86%E9%85%8D/</loc>
-    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
-    <data>
-        <display>
-        <title>变量分配</title>
-        <pubTime>2018-03-26T03:13:15.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.zhouzuoyu.com/2018/02/08/c/sort/</loc>
-    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
-    <data>
-        <display>
-        <title>sort</title>
-        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
         
          
            
@@ -116,12 +101,48 @@
 
     
   <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/c/sort/</loc>
+    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
+    <data>
+        <display>
+        <title>sort</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.zhouzuoyu.com/2018/02/08/c/list/</loc>
     <lastmod>2018-08-06T03:05:11.949Z</lastmod>
     <data>
         <display>
         <title>内核链表</title>
         <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="c" url="http://www.zhouzuoyu.com/categories/c/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/26/c/%E5%8F%98%E9%87%8F%E5%88%86%E9%85%8D/</loc>
+    <lastmod>2018-08-06T03:05:11.949Z</lastmod>
+    <data>
+        <display>
+        <title>变量分配</title>
+        <pubTime>2018-03-26T03:13:15.000Z</pubTime>
         
          
            
@@ -338,30 +359,6 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/05/21/Linux/intel/crl/old_match_method/</loc>
-    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
-    <data>
-        <display>
-        <title>CRL老的匹配方式</title>
-        <pubTime>2018-05-21T03:11:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
-          
-             
-              <breadCrumb title="intel" url="http://www.zhouzuoyu.com/categories/Linux/intel/"/>
-          
-             
-              <breadCrumb title="crl" url="http://www.zhouzuoyu.com/categories/Linux/intel/crl/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.zhouzuoyu.com/2018/01/30/Linux/input/Input_dev%E5%92%8CInput_handler%E9%93%BE%E6%8E%A5/</loc>
     <lastmod>2018-08-06T03:05:11.941Z</lastmod>
     <data>
@@ -376,6 +373,30 @@
           
              
               <breadCrumb title="input" url="http://www.zhouzuoyu.com/categories/Linux/input/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/21/Linux/intel/crl/match/</loc>
+    <lastmod>2018-08-06T03:05:11.941Z</lastmod>
+    <data>
+        <display>
+        <title>crl match</title>
+        <pubTime>2018-05-21T03:15:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="intel" url="http://www.zhouzuoyu.com/categories/Linux/intel/"/>
+          
+             
+              <breadCrumb title="crl" url="http://www.zhouzuoyu.com/categories/Linux/intel/crl/"/>
           
         </display>
     </data>
@@ -740,12 +761,12 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/05/21/Linux/intel/crl/match/</loc>
+    <loc>http://www.zhouzuoyu.com/2018/05/21/Linux/intel/crl/old_match_method/</loc>
     <lastmod>2018-08-06T03:05:11.941Z</lastmod>
     <data>
         <display>
-        <title>crl match</title>
-        <pubTime>2018-05-21T03:15:00.000Z</pubTime>
+        <title>CRL老的匹配方式</title>
+        <pubTime>2018-05-21T03:11:00.000Z</pubTime>
         
          
            
@@ -932,27 +953,6 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/05/16/Linux/flash/nor_flash%E9%94%99%E4%BD%8D%E8%BF%9E%E6%8E%A5/</loc>
-    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
-    <data>
-        <display>
-        <title>nor_flash错位连接</title>
-        <pubTime>2018-05-16T06:43:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
-          
-             
-              <breadCrumb title="flash" url="http://www.zhouzuoyu.com/categories/Linux/flash/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.zhouzuoyu.com/2018/02/05/Linux/flash/nand_base%20API/</loc>
     <lastmod>2018-08-06T03:05:11.937Z</lastmod>
     <data>
@@ -1016,6 +1016,27 @@
 
     
   <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/16/Linux/flash/nor_flash%E9%94%99%E4%BD%8D%E8%BF%9E%E6%8E%A5/</loc>
+    <lastmod>2018-08-06T03:05:11.937Z</lastmod>
+    <data>
+        <display>
+        <title>nor_flash错位连接</title>
+        <pubTime>2018-05-16T06:43:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="flash" url="http://www.zhouzuoyu.com/categories/Linux/flash/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.zhouzuoyu.com/2018/02/07/Linux/chrdev/Misc/</loc>
     <lastmod>2018-08-06T03:05:11.933Z</lastmod>
     <data>
@@ -1058,12 +1079,12 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/05/10/Linux/asoc/%E5%88%9B%E5%BB%BApcm%E8%AE%BE%E5%A4%87/</loc>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/Linux/asoc/%E6%B7%BB%E5%8A%A0kcontrol/</loc>
     <lastmod>2018-08-06T03:05:11.933Z</lastmod>
     <data>
         <display>
-        <title>注册pcm设备</title>
-        <pubTime>2018-05-10T08:03:00.000Z</pubTime>
+        <title>添加kcontrol</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
         
          
            
@@ -1079,11 +1100,11 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/02/08/Linux/asoc/%E6%B7%BB%E5%8A%A0kcontrol/</loc>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/Linux/asoc/snd_soc_write/</loc>
     <lastmod>2018-08-06T03:05:11.933Z</lastmod>
     <data>
         <display>
-        <title>添加kcontrol</title>
+        <title>snd_soc_write</title>
         <pubTime>2018-02-08T04:00:00.000Z</pubTime>
         
          
@@ -1289,12 +1310,12 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/02/08/Linux/asoc/snd_soc_write/</loc>
+    <loc>http://www.zhouzuoyu.com/2018/05/10/Linux/asoc/%E5%88%9B%E5%BB%BApcm%E8%AE%BE%E5%A4%87/</loc>
     <lastmod>2018-08-06T03:05:11.933Z</lastmod>
     <data>
         <display>
-        <title>snd_soc_write</title>
-        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
+        <title>注册pcm设备</title>
+        <pubTime>2018-05-10T08:03:00.000Z</pubTime>
         
          
            
@@ -1481,30 +1502,6 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/03/22/Linux/asoc/dapm/%E5%90%AF%E5%8A%A8power-check/</loc>
-    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
-    <data>
-        <display>
-        <title>启动power_check</title>
-        <pubTime>2018-03-22T09:27:18.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
-          
-             
-              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
-          
-             
-              <breadCrumb title="dapm" url="http://www.zhouzuoyu.com/categories/Linux/asoc/dapm/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.zhouzuoyu.com/2018/06/05/Linux/asoc/dapm/complete-path%E4%BE%8B%E5%AD%90/</loc>
     <lastmod>2018-08-06T03:05:11.933Z</lastmod>
     <data>
@@ -1601,6 +1598,30 @@
 
     
   <url>
+    <loc>http://www.zhouzuoyu.com/2018/03/22/Linux/asoc/dapm/%E5%90%AF%E5%8A%A8power-check/</loc>
+    <lastmod>2018-08-06T03:05:11.933Z</lastmod>
+    <data>
+        <display>
+        <title>启动power_check</title>
+        <pubTime>2018-03-22T09:27:18.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Linux" url="http://www.zhouzuoyu.com/categories/Linux/"/>
+          
+             
+              <breadCrumb title="asoc" url="http://www.zhouzuoyu.com/categories/Linux/asoc/"/>
+          
+             
+              <breadCrumb title="dapm" url="http://www.zhouzuoyu.com/categories/Linux/asoc/dapm/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.zhouzuoyu.com/2018/01/29/Android/Sensors/SensorService%E5%90%AF%E5%8A%A8/</loc>
     <lastmod>2018-08-06T03:05:11.929Z</lastmod>
     <data>
@@ -1643,20 +1664,17 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/02/07/Env/hexo%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</loc>
+    <loc>http://www.zhouzuoyu.com/2018/05/17/Android/fastboot%E7%83%A7%E5%86%99img/</loc>
     <lastmod>2018-08-06T03:05:11.929Z</lastmod>
     <data>
         <display>
-        <title>hexo使用技巧</title>
-        <pubTime>2018-02-07T09:30:53.000Z</pubTime>
+        <title>fastboot烧写img</title>
+        <pubTime>2018-05-17T09:14:00.000Z</pubTime>
         
          
            
              
-              <breadCrumb title="Env" url="http://www.zhouzuoyu.com/categories/Env/"/>
-          
-             
-              <breadCrumb title="hexo" url="http://www.zhouzuoyu.com/categories/Env/hexo/"/>
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
           
         </display>
     </data>
@@ -1724,24 +1742,6 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/02/08/Android/%E7%A1%AC%E4%BB%B6%E8%AE%BF%E9%97%AE%E6%9C%8D%E5%8A%A1/</loc>
-    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
-    <data>
-        <display>
-        <title>硬件访问服务</title>
-        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.zhouzuoyu.com/2018/05/17/Android/partition/android%E5%88%86%E5%8C%BA/</loc>
     <lastmod>2018-08-06T03:05:11.929Z</lastmod>
     <data>
@@ -1763,12 +1763,12 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/05/17/Android/fastboot%E7%83%A7%E5%86%99img/</loc>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/Android/%E7%A1%AC%E4%BB%B6%E8%AE%BF%E9%97%AE%E6%9C%8D%E5%8A%A1/</loc>
     <lastmod>2018-08-06T03:05:11.929Z</lastmod>
     <data>
         <display>
-        <title>fastboot烧写img</title>
-        <pubTime>2018-05-17T09:14:00.000Z</pubTime>
+        <title>硬件访问服务</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
         
          
            
@@ -1823,20 +1823,20 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/06/01/Env/ubuntu/%E5%85%B1%E4%BA%AB/</loc>
+    <loc>http://www.zhouzuoyu.com/2018/02/08/Android/tinyalsa/tinyplay/</loc>
     <lastmod>2018-08-06T03:05:11.929Z</lastmod>
     <data>
         <display>
-        <title>共享文件夹</title>
-        <pubTime>2018-06-01T05:42:00.000Z</pubTime>
+        <title>tinyplay</title>
+        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
         
          
            
              
-              <breadCrumb title="Env" url="http://www.zhouzuoyu.com/categories/Env/"/>
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
           
              
-              <breadCrumb title="ubuntu" url="http://www.zhouzuoyu.com/categories/Env/ubuntu/"/>
+              <breadCrumb title="tinyalsa" url="http://www.zhouzuoyu.com/categories/Android/tinyalsa/"/>
           
         </display>
     </data>
@@ -1868,48 +1868,6 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/05/09/Env/android%20studio/%E5%AE%89%E8%A3%85android%20studio/</loc>
-    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
-    <data>
-        <display>
-        <title>安装android studio过程</title>
-        <pubTime>2018-05-09T09:30:53.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="Env" url="http://www.zhouzuoyu.com/categories/Env/"/>
-          
-             
-              <breadCrumb title="android studio" url="http://www.zhouzuoyu.com/categories/Env/android-studio/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.zhouzuoyu.com/2018/02/08/Android/tinyalsa/tinyplay/</loc>
-    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
-    <data>
-        <display>
-        <title>tinyplay</title>
-        <pubTime>2018-02-08T04:00:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
-          
-             
-              <breadCrumb title="tinyalsa" url="http://www.zhouzuoyu.com/categories/Android/tinyalsa/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.zhouzuoyu.com/2018/01/29/Android/Sensors/SensorService/</loc>
     <lastmod>2018-08-06T03:05:11.929Z</lastmod>
     <data>
@@ -1924,6 +1882,69 @@
           
              
               <breadCrumb title="Sensors" url="http://www.zhouzuoyu.com/categories/Android/Sensors/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/06/01/Env/ubuntu/%E5%85%B1%E4%BA%AB/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>共享文件夹</title>
+        <pubTime>2018-06-01T05:42:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Env" url="http://www.zhouzuoyu.com/categories/Env/"/>
+          
+             
+              <breadCrumb title="ubuntu" url="http://www.zhouzuoyu.com/categories/Env/ubuntu/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/07/Env/hexo%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>hexo使用技巧</title>
+        <pubTime>2018-02-07T09:30:53.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Env" url="http://www.zhouzuoyu.com/categories/Env/"/>
+          
+             
+              <breadCrumb title="hexo" url="http://www.zhouzuoyu.com/categories/Env/hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.zhouzuoyu.com/2018/05/09/Env/android%20studio/%E5%AE%89%E8%A3%85android%20studio/</loc>
+    <lastmod>2018-08-06T03:05:11.929Z</lastmod>
+    <data>
+        <display>
+        <title>安装android studio过程</title>
+        <pubTime>2018-05-09T09:30:53.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Env" url="http://www.zhouzuoyu.com/categories/Env/"/>
+          
+             
+              <breadCrumb title="android studio" url="http://www.zhouzuoyu.com/categories/Env/android-studio/"/>
           
         </display>
     </data>
@@ -1973,32 +1994,11 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/SocketPair/</loc>
+    <loc>http://www.zhouzuoyu.com/2018/02/10/Android/Lights/BatteryService/</loc>
     <lastmod>2018-08-06T03:05:11.925Z</lastmod>
     <data>
         <display>
-        <title>InputFlinger(6)_SocketPair</title>
-        <pubTime>2018-02-11T04:00:00.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
-          
-             
-              <breadCrumb title="InputFlinger" url="http://www.zhouzuoyu.com/categories/Android/InputFlinger/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.zhouzuoyu.com/2018/02/10/Android/Lights/DisplayPowerController/</loc>
-    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
-    <data>
-        <display>
-        <title>Android Lights(3)_DisplayPowerController</title>
+        <title>Android Lights(8)_BatteryService</title>
         <pubTime>2018-02-10T04:00:00.000Z</pubTime>
         
          
@@ -2078,6 +2078,27 @@
 
     
   <url>
+    <loc>http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/SocketPair/</loc>
+    <lastmod>2018-08-06T03:05:11.925Z</lastmod>
+    <data>
+        <display>
+        <title>InputFlinger(6)_SocketPair</title>
+        <pubTime>2018-02-11T04:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android" url="http://www.zhouzuoyu.com/categories/Android/"/>
+          
+             
+              <breadCrumb title="InputFlinger" url="http://www.zhouzuoyu.com/categories/Android/InputFlinger/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/OverView/</loc>
     <lastmod>2018-08-06T03:05:11.925Z</lastmod>
     <data>
@@ -2099,11 +2120,11 @@
 
     
   <url>
-    <loc>http://www.zhouzuoyu.com/2018/02/10/Android/Lights/BatteryService/</loc>
+    <loc>http://www.zhouzuoyu.com/2018/02/10/Android/Lights/DisplayPowerController/</loc>
     <lastmod>2018-08-06T03:05:11.925Z</lastmod>
     <data>
         <display>
-        <title>Android Lights(8)_BatteryService</title>
+        <title>Android Lights(3)_DisplayPowerController</title>
         <pubTime>2018-02-10T04:00:00.000Z</pubTime>
         
          

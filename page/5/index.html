@@ -265,7 +265,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/GlobalKey/">
+    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/26/Linux/kernel/kthread/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="zhouzuoyu">
@@ -284,7 +284,7 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/02/11/Android/InputFlinger/GlobalKey/" itemprop="url">InputFlinger(5)_GlobalKey</a></h1>
+                <a class="post-title-link" href="/2018/02/26/Linux/kernel/kthread/" itemprop="url">kthread</a></h1>
         
 
         <div class="post-meta">
@@ -296,7 +296,7 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-02-11T12:00:00+08:00">2018-02-11</time>
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-02-26T21:41:13+08:00">2018-02-26</time>
             
 
             
@@ -317,14 +317,14 @@
                 <span class="post-meta-item-text">分类于</span>
               
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/" itemprop="url" rel="index"><span itemprop="name">Android</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Linux/" itemprop="url" rel="index"><span itemprop="name">Linux</span></a></span>
 
                 
                 
                   ， 
                 
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/InputFlinger/" itemprop="url" rel="index"><span itemprop="name">InputFlinger</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Linux/kernel/" itemprop="url" rel="index"><span itemprop="name">kernel</span></a></span>
 
                 
                 
@@ -339,8 +339,8 @@
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
-                <a href="/2018/02/11/Android/InputFlinger/GlobalKey/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/11/Android/InputFlinger/GlobalKey/" itemprop="commentCount"></span>
+                <a href="/2018/02/26/Linux/kernel/kthread/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/26/Linux/kernel/kthread/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -348,7 +348,7 @@
 
           
           
-             <span id="/2018/02/11/Android/InputFlinger/GlobalKey/" class="leancloud_visitors" data-flag-title="InputFlinger(5)_GlobalKey">
+             <span id="/2018/02/26/Linux/kernel/kthread/" class="leancloud_visitors" data-flag-title="kthread">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -380,14 +380,10 @@
 
       
         
-          <h1 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h1><p>GlobalKeyManager.java (base\policy\src\com\android\internal\policy\impl)</p>
-<h1 id="配置文件"><a href="#配置文件" class="headerlink" title="配置文件"></a>配置文件</h1><blockquote>
-<p>frameworks/base/core/res/res/xml/global_keys.xml</p>
-</blockquote>
-<p>eg.<br>key keyCode=”KEYCODE_VOLUME_UP”<br>component=”com.android.example.keys/.VolumeKeyHandler”<br></p>
+          <h1 id="kthread-run"><a href="#kthread-run" class="headerlink" title="kthread_run"></a>kthread_run</h1><p>启动内核线程<br>由kthread_create()和wake_up_process()两部分组成，这样的好处是kthread_run()创建的线程可以直接运行。<br></p>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2018/02/11/Android/InputFlinger/GlobalKey/#more" rel="contents">
+            <a class="btn" href="/2018/02/26/Linux/kernel/kthread/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -612,356 +608,6 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/InputDispatcher/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="zhouzuoyu">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.jpg">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="千里之行始于足下">
-    </span>
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-                
-                <a class="post-title-link" href="/2018/02/11/Android/InputFlinger/InputDispatcher/" itemprop="url">InputFlinger(4)_InputDispatcher</a></h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">发表于</span>
-              
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-02-11T12:00:00+08:00">2018-02-11</time>
-            
-
-            
-            
-
-            
-          </span>
-
-          
-            <span class="post-category" >
-            
-              <span class="post-meta-divider">|</span>
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">分类于</span>
-              
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/" itemprop="url" rel="index"><span itemprop="name">Android</span></a></span>
-
-                
-                
-                  ， 
-                
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/InputFlinger/" itemprop="url" rel="index"><span itemprop="name">InputFlinger</span></a></span>
-
-                
-                
-              
-            </span>
-          
-
-          
-            
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2018/02/11/Android/InputFlinger/InputDispatcher/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/11/Android/InputFlinger/InputDispatcher/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
-          
-
-          
-          
-             <span id="/2018/02/11/Android/InputFlinger/InputDispatcher/" class="leancloud_visitors" data-flag-title="InputFlinger(4)_InputDispatcher">
-               <span class="post-meta-divider">|</span>
-               <span class="post-meta-item-icon">
-                 <i class="fa fa-eye"></i>
-               </span>
-               
-                 <span class="post-meta-item-text">阅读次数&#58;</span>
-               
-                 <span class="leancloud-visitors-count"></span>
-             </span>
-          
-
-          
-
-          
-
-          
-
-        </div>
-      </header>
-    
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          <h1 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h1><blockquote>
-<p>InputDispatcher.cpp (native\services\inputflinger)</p>
-</blockquote>
-<h1 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h1><ul>
-<li>mInboundQueue中取出事件，没有设置POLICY_FLAG_PASS_TO_USER则不用传递给app，drop</li>
-<li>SystemKey/GlobalKey预处理(interceptKeyBeforeDispatching HOME/SEARCH/MENU/GlobalKey…)，设置INTERCEPT_KEY_RESULT_SKIP</li>
-<li>UserKey则发送事件给对应app</li></ul>
-          <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/02/11/Android/InputFlinger/InputDispatcher/#more" rel="contents">
-              阅读全文 &raquo;
-            </a>
-          </div>
-          <!--/noindex-->
-        
-      
-    </div>
-    
-    
-    
-
-    
-
-    
-
-    
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </div>
-  
-  
-  
-  </article>
-
-
-    
-      
-
-  
-
-  
-  
-  
-
-  
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-  
-  
-  
-  <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/EventHub/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="zhouzuoyu">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.jpg">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="千里之行始于足下">
-    </span>
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-                
-                <a class="post-title-link" href="/2018/02/11/Android/InputFlinger/EventHub/" itemprop="url">InputFlinger(2)_EventHub</a></h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">发表于</span>
-              
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-02-11T12:00:00+08:00">2018-02-11</time>
-            
-
-            
-            
-
-            
-          </span>
-
-          
-            <span class="post-category" >
-            
-              <span class="post-meta-divider">|</span>
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">分类于</span>
-              
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/" itemprop="url" rel="index"><span itemprop="name">Android</span></a></span>
-
-                
-                
-                  ， 
-                
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/InputFlinger/" itemprop="url" rel="index"><span itemprop="name">InputFlinger</span></a></span>
-
-                
-                
-              
-            </span>
-          
-
-          
-            
-              <span class="post-comments-count">
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-comment-o"></i>
-                </span>
-                <a href="/2018/02/11/Android/InputFlinger/EventHub/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/11/Android/InputFlinger/EventHub/" itemprop="commentCount"></span>
-                </a>
-              </span>
-            
-          
-
-          
-          
-             <span id="/2018/02/11/Android/InputFlinger/EventHub/" class="leancloud_visitors" data-flag-title="InputFlinger(2)_EventHub">
-               <span class="post-meta-divider">|</span>
-               <span class="post-meta-item-icon">
-                 <i class="fa fa-eye"></i>
-               </span>
-               
-                 <span class="post-meta-item-text">阅读次数&#58;</span>
-               
-                 <span class="leancloud-visitors-count"></span>
-             </span>
-          
-
-          
-
-          
-
-          
-
-        </div>
-      </header>
-    
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          <h1 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h1><p>EventHub.cpp (native\services\inputflinger)</p>
-<h1 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h1><p>使用epoll和inotify机制共同监测<br>1: /dev/input节点的增减<br>2: /dev/input/eventx事件上报</p>
-<h1 id="源码分析"><a href="#源码分析" class="headerlink" title="源码分析"></a>源码分析</h1><h2 id="inotify"><a href="#inotify" class="headerlink" title="inotify"></a>inotify</h2><p>使用inotify机制来监测/dev/input/下节点的增减<br></p>
-          <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/02/11/Android/InputFlinger/EventHub/#more" rel="contents">
-              阅读全文 &raquo;
-            </a>
-          </div>
-          <!--/noindex-->
-        
-      
-    </div>
-    
-    
-    
-
-    
-
-    
-
-    
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </div>
-  
-  
-  
-  </article>
-
-
-    
-      
-
-  
-
-  
-  
-  
-
-  
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-  
-  
-  
-  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/InputReader/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -1134,7 +780,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/SocketPair/">
+    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/InputDispatcher/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="zhouzuoyu">
@@ -1153,7 +799,7 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/02/11/Android/InputFlinger/SocketPair/" itemprop="url">InputFlinger(6)_SocketPair</a></h1>
+                <a class="post-title-link" href="/2018/02/11/Android/InputFlinger/InputDispatcher/" itemprop="url">InputFlinger(4)_InputDispatcher</a></h1>
         
 
         <div class="post-meta">
@@ -1208,8 +854,8 @@
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
-                <a href="/2018/02/11/Android/InputFlinger/SocketPair/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/11/Android/InputFlinger/SocketPair/" itemprop="commentCount"></span>
+                <a href="/2018/02/11/Android/InputFlinger/InputDispatcher/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/11/Android/InputFlinger/InputDispatcher/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -1217,7 +863,7 @@
 
           
           
-             <span id="/2018/02/11/Android/InputFlinger/SocketPair/" class="leancloud_visitors" data-flag-title="InputFlinger(6)_SocketPair">
+             <span id="/2018/02/11/Android/InputFlinger/InputDispatcher/" class="leancloud_visitors" data-flag-title="InputFlinger(4)_InputDispatcher">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -1249,10 +895,16 @@
 
       
         
-          <h1 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h1><p>每个app都会调用addWindow<br>创建一组socketpair，fd[0]注册到InputDispatcher,fd[1]注册到app<br>so InputDispatcher send，则app就可以receive<br></p>
+          <h1 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h1><blockquote>
+<p>InputDispatcher.cpp (native\services\inputflinger)</p>
+</blockquote>
+<h1 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h1><ul>
+<li>mInboundQueue中取出事件，没有设置POLICY_FLAG_PASS_TO_USER则不用传递给app，drop</li>
+<li>SystemKey/GlobalKey预处理(interceptKeyBeforeDispatching HOME/SEARCH/MENU/GlobalKey…)，设置INTERCEPT_KEY_RESULT_SKIP</li>
+<li>UserKey则发送事件给对应app</li></ul>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2018/02/11/Android/InputFlinger/SocketPair/#more" rel="contents">
+            <a class="btn" href="/2018/02/11/Android/InputFlinger/InputDispatcher/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1483,7 +1135,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/10/Android/Lights/LightsService/">
+    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/GlobalKey/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="zhouzuoyu">
@@ -1502,7 +1154,7 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/02/10/Android/Lights/LightsService/" itemprop="url">Android Lights(5)_LightsService</a></h1>
+                <a class="post-title-link" href="/2018/02/11/Android/InputFlinger/GlobalKey/" itemprop="url">InputFlinger(5)_GlobalKey</a></h1>
         
 
         <div class="post-meta">
@@ -1514,7 +1166,7 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-02-10T12:00:00+08:00">2018-02-10</time>
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-02-11T12:00:00+08:00">2018-02-11</time>
             
 
             
@@ -1542,7 +1194,7 @@
                   ， 
                 
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/Lights/" itemprop="url" rel="index"><span itemprop="name">Lights</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/InputFlinger/" itemprop="url" rel="index"><span itemprop="name">InputFlinger</span></a></span>
 
                 
                 
@@ -1557,8 +1209,8 @@
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
-                <a href="/2018/02/10/Android/Lights/LightsService/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/10/Android/Lights/LightsService/" itemprop="commentCount"></span>
+                <a href="/2018/02/11/Android/InputFlinger/GlobalKey/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/11/Android/InputFlinger/GlobalKey/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -1566,7 +1218,7 @@
 
           
           
-             <span id="/2018/02/10/Android/Lights/LightsService/" class="leancloud_visitors" data-flag-title="Android Lights(5)_LightsService">
+             <span id="/2018/02/11/Android/InputFlinger/GlobalKey/" class="leancloud_visitors" data-flag-title="InputFlinger(5)_GlobalKey">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -1598,15 +1250,14 @@
 
       
         
-          <h2 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h2><blockquote>
-<p>  base\services\core\java\com\android\server\lights\LightsService.java</p>
+          <h1 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h1><p>GlobalKeyManager.java (base\policy\src\com\android\internal\policy\impl)</p>
+<h1 id="配置文件"><a href="#配置文件" class="headerlink" title="配置文件"></a>配置文件</h1><blockquote>
+<p>frameworks/base/core/res/res/xml/global_keys.xml</p>
 </blockquote>
-<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><p>　　主要对JNI再封装了一层</p>
-<p>　　对上：构造了setBrightness接口函数供调用</p>
-<p>　　对下：调用JNI对应方法</p>
+<p>eg.<br>key keyCode=”KEYCODE_VOLUME_UP”<br>component=”com.android.example.keys/.VolumeKeyHandler”<br></p>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2018/02/10/Android/Lights/LightsService/#more" rel="contents">
+            <a class="btn" href="/2018/02/11/Android/InputFlinger/GlobalKey/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1659,7 +1310,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/10/Android/Lights/Overview/">
+    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/EventHub/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="zhouzuoyu">
@@ -1678,7 +1329,7 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/02/10/Android/Lights/Overview/" itemprop="url">Android Lights(1)_Overview</a></h1>
+                <a class="post-title-link" href="/2018/02/11/Android/InputFlinger/EventHub/" itemprop="url">InputFlinger(2)_EventHub</a></h1>
         
 
         <div class="post-meta">
@@ -1690,7 +1341,7 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-02-10T12:00:00+08:00">2018-02-10</time>
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-02-11T12:00:00+08:00">2018-02-11</time>
             
 
             
@@ -1718,7 +1369,7 @@
                   ， 
                 
               
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/Lights/" itemprop="url" rel="index"><span itemprop="name">Lights</span></a></span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/InputFlinger/" itemprop="url" rel="index"><span itemprop="name">InputFlinger</span></a></span>
 
                 
                 
@@ -1733,8 +1384,8 @@
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
-                <a href="/2018/02/10/Android/Lights/Overview/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/10/Android/Lights/Overview/" itemprop="commentCount"></span>
+                <a href="/2018/02/11/Android/InputFlinger/EventHub/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/11/Android/InputFlinger/EventHub/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -1742,7 +1393,7 @@
 
           
           
-             <span id="/2018/02/10/Android/Lights/Overview/" class="leancloud_visitors" data-flag-title="Android Lights(1)_Overview">
+             <span id="/2018/02/11/Android/InputFlinger/EventHub/" class="leancloud_visitors" data-flag-title="InputFlinger(2)_EventHub">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -1774,18 +1425,12 @@
 
       
         
-          <p>以背光调节阐述：</p>
-<blockquote>
-<a href="/2018/02/10/Android/Lights/PowerManagerService/" title="PowerManagerService">PowerManagerService</a>
-</blockquote>
-<p>　　使用ContentObserver对Settings.System.SCREEN_BRIGHTNESS进行观测，数据变动则启动一次背光调节</p>
-<blockquote>
-<a href="/2018/02/10/Android/Lights/DisplayPowerController/" title="DisplayPowerController">DisplayPowerController</a>
-</blockquote>
-<p>　　使用animateScreenBrightness算法（渐变）计算出背光值，调用DisplayPowerState提供的接口进行调节<br></p>
+          <h1 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h1><p>EventHub.cpp (native\services\inputflinger)</p>
+<h1 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h1><p>使用epoll和inotify机制共同监测<br>1: /dev/input节点的增减<br>2: /dev/input/eventx事件上报</p>
+<h1 id="源码分析"><a href="#源码分析" class="headerlink" title="源码分析"></a>源码分析</h1><h2 id="inotify"><a href="#inotify" class="headerlink" title="inotify"></a>inotify</h2><p>使用inotify机制来监测/dev/input/下节点的增减<br></p>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2018/02/10/Android/Lights/Overview/#more" rel="contents">
+            <a class="btn" href="/2018/02/11/Android/InputFlinger/EventHub/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1838,7 +1483,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/10/Android/Lights/PowerManagerService/">
+    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/11/Android/InputFlinger/SocketPair/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="zhouzuoyu">
@@ -1857,7 +1502,178 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/02/10/Android/Lights/PowerManagerService/" itemprop="url">Android Lights(2)_PowerManagerService</a></h1>
+                <a class="post-title-link" href="/2018/02/11/Android/InputFlinger/SocketPair/" itemprop="url">InputFlinger(6)_SocketPair</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-02-11T12:00:00+08:00">2018-02-11</time>
+            
+
+            
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/" itemprop="url" rel="index"><span itemprop="name">Android</span></a></span>
+
+                
+                
+                  ， 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/InputFlinger/" itemprop="url" rel="index"><span itemprop="name">InputFlinger</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/02/11/Android/InputFlinger/SocketPair/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/11/Android/InputFlinger/SocketPair/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+             <span id="/2018/02/11/Android/InputFlinger/SocketPair/" class="leancloud_visitors" data-flag-title="InputFlinger(6)_SocketPair">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数&#58;</span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h1 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h1><p>每个app都会调用addWindow<br>创建一组socketpair，fd[0]注册到InputDispatcher,fd[1]注册到app<br>so InputDispatcher send，则app就可以receive<br></p>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2018/02/11/Android/InputFlinger/SocketPair/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/10/Android/Lights/BatteryService/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="zhouzuoyu">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="千里之行始于足下">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2018/02/10/Android/Lights/BatteryService/" itemprop="url">Android Lights(8)_BatteryService</a></h1>
         
 
         <div class="post-meta">
@@ -1912,8 +1728,8 @@
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
-                <a href="/2018/02/10/Android/Lights/PowerManagerService/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/10/Android/Lights/PowerManagerService/" itemprop="commentCount"></span>
+                <a href="/2018/02/10/Android/Lights/BatteryService/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/10/Android/Lights/BatteryService/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -1921,7 +1737,181 @@
 
           
           
-             <span id="/2018/02/10/Android/Lights/PowerManagerService/" class="leancloud_visitors" data-flag-title="Android Lights(2)_PowerManagerService">
+             <span id="/2018/02/10/Android/Lights/BatteryService/" class="leancloud_visitors" data-flag-title="Android Lights(8)_BatteryService">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数&#58;</span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          <h1 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h1><p>base\services\core\java\com\android\server\BatteryService.java</p>
+<h1 id="源码分析"><a href="#源码分析" class="headerlink" title="源码分析"></a>源码分析</h1><ol>
+<li><p>灯颜色</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="title">BatteryService</span><span class="params">(Context context)</span></span></span><br><span class="line"><span class="function">	mLed </span>= <span class="keyword">new</span> Led(context, getLocalService(LightsManager.class));	<span class="comment">// call public Led(Context context, LightsManager lights)</span></span><br><span class="line">		mBatteryLight = lights.getLight(LightsManager.LIGHT_ID_BATTERY);</span><br><span class="line">		mBatteryLowARGB = context.getResources().getInteger(</span><br><span class="line">	            com.android.internal.R.integer.config_notificationsBatteryLowARGB);		<span class="comment">// 0xFFFF0000</span></span><br><span class="line">	    mBatteryMediumARGB = context.getResources().getInteger(</span><br><span class="line">	            com.android.internal.R.integer.config_notificationsBatteryMediumARGB);	<span class="comment">// 0xFFFFFF00</span></span><br><span class="line">	    mBatteryFullARGB = context.getResources().getInteger(</span><br><span class="line">	            com.android.internal.R.integer.config_notificationsBatteryFullARGB);	<span class="comment">// 0xFF00FF00</span></span><br></pre></td></tr></table></figure></li></ol>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2018/02/10/Android/Lights/BatteryService/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://www.zhouzuoyu.com/2018/02/10/Android/Lights/DisplayPowerController/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="zhouzuoyu">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="千里之行始于足下">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2018/02/10/Android/Lights/DisplayPowerController/" itemprop="url">Android Lights(3)_DisplayPowerController</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-02-10T12:00:00+08:00">2018-02-10</time>
+            
+
+            
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/" itemprop="url" rel="index"><span itemprop="name">Android</span></a></span>
+
+                
+                
+                  ， 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/Android/Lights/" itemprop="url" rel="index"><span itemprop="name">Lights</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/02/10/Android/Lights/DisplayPowerController/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2018/02/10/Android/Lights/DisplayPowerController/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+             <span id="/2018/02/10/Android/Lights/DisplayPowerController/" class="leancloud_visitors" data-flag-title="Android Lights(3)_DisplayPowerController">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -1954,15 +1944,13 @@
       
         
           <h2 id="源码"><a href="#源码" class="headerlink" title="源码"></a>源码</h2><blockquote>
-<p>  base\services\core\java\com\android\server\power\PowerManagerService.java</p>
+<p>base\services\core\java\com\android\server\display\DisplayPowerController.java</p>
 </blockquote>
-<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><blockquote>
-<p>  注册了ContentObserver来监测背光值，数据变动将启动背光调节</p>
-</blockquote>
-<h2 id="源码分析"><a href="#源码分析" class="headerlink" title="源码分析"></a>源码分析</h2>
+<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><p>　　对上：提供requestPowerState方法供调用</p>
+<p>　　对下：调用mProperty.setValue进行调节（参见DisplayPowerState篇）<br></p>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2018/02/10/Android/Lights/PowerManagerService/#more" rel="contents">
+            <a class="btn" href="/2018/02/10/Android/Lights/DisplayPowerController/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -2051,7 +2039,7 @@
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">107</span>
+                    <span class="site-state-item-count">108</span>
                     <span class="site-state-item-name">日志</span>
                   </a>
                 </div>
